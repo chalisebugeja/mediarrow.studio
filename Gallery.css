@@ -3,18 +3,14 @@ body {
   }
 
 .navbar{
-    border-bottom-style: solid;
-    border-bottom-color: #F2AE8B;
-    border-bottom-width: 4px;
+  border-bottom: solid #F2AE8B 4px;
 }
 
 h2{
   padding-top: 30px;
   padding-bottom: 10px;
   font-family: 'Questrial', sans-serif;
-  border-bottom-style: solid;
-  border-bottom-color: #F2AE8B;
-  border-bottom-width: 2px;
+  border-bottom: solid #F2AE8B 2px;
 }
 
 .row{
